@@ -1,0 +1,12 @@
+#c1,#c2,#c3
+{
+    height: 400px;
+    width: 600px;
+    margin: 20px;
+
+}
+#main
+{
+    display: flex;
+    flex-direction: row;
+}
